@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487276006124",
+    "project_id": "chat-app-a4e84",
+    "storage_bucket": "chat-app-a4e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487276006124:android:694dade0246de535fbb3c9",
+        "android_client_info": {
+          "package_name": "com.example.yellow_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487276006124-pga8jbgqln9favdv4nvtccj49uuk9hrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuVXh0HLsjh1xw0OXSO9o28oLxY6z9RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487276006124-pga8jbgqln9favdv4nvtccj49uuk9hrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
